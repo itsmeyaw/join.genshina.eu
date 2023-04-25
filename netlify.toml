@@ -1,0 +1,5 @@
+[[redirects]]
+    from = "/"
+    to = "https://discord.com/invite/QBs4cqnqh9"
+    status = 302
+    force = true
